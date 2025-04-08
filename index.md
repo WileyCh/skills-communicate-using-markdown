@@ -10,5 +10,9 @@ var myVar = "Hello, world!";
 ```
 
 
+- [ ] add salmon photo
+- [ ] add code
+- [ ] finish course 
+
 
 added 2 headers of different sizes
