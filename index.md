@@ -5,4 +5,10 @@
 
 ![Image of Sockeye Salmon](https://wildsalmoncenter.org/wp-content/uploads/2020/02/kspencer_sockeye.jpg)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+
 added 2 headers of different sizes
